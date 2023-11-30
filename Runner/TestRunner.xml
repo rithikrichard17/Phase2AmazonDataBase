@@ -1,0 +1,21 @@
+<suite name="test1" verbose="1">
+	
+	<listeners>
+		
+		<listener class-name="com.Amazon.qa.TestPages.ItestListenerClass"></listener>
+	</listeners>
+	<test name="POMFramework">
+		<classes>
+			
+			
+			<class name="com.Amazon.qa.TestPages.HomePageAmazonTest"></class>
+			
+			
+		</classes>
+		
+		
+	</test>
+	
+	
+	
+</suite>
